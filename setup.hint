@@ -1,0 +1,5 @@
+category: Ruby Devel
+requires: cygwin ruby
+sdesc: "A LALR(1) parser generator for Ruby"
+ldesc: "A LALR(1) parser generator for Ruby"
+
