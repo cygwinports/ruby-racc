@@ -1,8 +1,0 @@
-inherit ruby
-
-DESCRIPTION="Ruby LALR parser generator"
-HOMEPAGE="http://i.loveruby.net/en/projects/racc/"
-SRC_URI="http://i.loveruby.net/archive/racc/racc-${PV}-all.tar.gz"
-SRC_DIR="racc-${PV}-all"
-
-DOCS="README.en README.ja"
