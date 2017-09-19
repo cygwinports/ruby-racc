@@ -2,7 +2,7 @@ inherit rubygem
 
 NAME="ruby-racc"
 VERSION=1.4.14
-RELEASE=1
+RELEASE=2
 CATEGORY="Ruby"
 SUMMARY="A LALR(1) parser generator for Ruby"
 DESCRIPTION="Racc is a LALR(1) parser generator. It is written in Ruby itself,
